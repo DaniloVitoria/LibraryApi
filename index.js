@@ -13,3 +13,5 @@ app.listen(config.get("port"), (error) => {
   }
   console.log("Rodando que e uma belezinha...");
 });
+
+
