@@ -12,6 +12,12 @@ O projeto é estruturado em controladores (controllers) e modelos (models) que i
 
 
 
+DIAGRAMA DO BANCO DE DADOS:
+
+![WhatsApp Image 2024-11-30 at 17 57 47](https://github.com/user-attachments/assets/7434b7ea-ce38-474d-ae4d-cd6ce2775307)
+
+
+
 
 Tutorial do fluxo de trabalho para poder trabalhar com a API:
 
