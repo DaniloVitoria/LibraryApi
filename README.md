@@ -1,5 +1,6 @@
 # LibraryApi
 
+
 A LibraryApi é uma API para gerenciar uma biblioteca, permitindo:
 
 Realizar empréstimos de livros.
@@ -21,3 +22,9 @@ Definição de ferramentas, bibliotecas, framework e dispositivos para desenvolv
 
 
 Casos
+
+
+Estrutura de pasta
+
+![estruturadepasta](https://github.com/user-attachments/assets/88efdd58-c546-4c5c-a200-c525fcaef980)
+
