@@ -24,8 +24,29 @@ Mapa mental
 
 ---
 
+## Fluxograma
+Fluxograma
+![Fluxograma](https://github.com/user-attachments/assets/4570d764-dd5d-40ee-87c4-e16e2a924a87)
 
 
+---
+
+
+## Diagrama de classes
+
+![DiagramadeClassesfuncionando](https://github.com/user-attachments/assets/4e21406c-a599-485d-80c3-dfa803458521)
+
+
+---
+
+
+## Fluxograma do repositório
+
+![Fluxogramacompleto](https://github.com/user-attachments/assets/67cecf2c-2722-46b2-ad55-30634479865f)
+
+
+
+---
 
 
 
@@ -143,28 +164,56 @@ Como contribuir:
 git clone https://github.com/seu-usuario/LibraryApi.git
 
 2 Navegar para o diretório do repositório
+```
 cd LibraryApi
+```
 
 3 Criar uma nova branch
+```
 git checkout -b nome-da-sua-branch
-
+```
 4 Adicionar alterações
+
+```
 git add .
+```
 
 5 Fazer um commit
-git commit -m "Descreva suas alterações aqui"
 
-6Adicionar repositório original como remoto
+```
+git commit -m "Descreva suas alterações aqui"
+```
+
+6 Adicionar repositório original como remoto
+```
 git remote add upstream https://github.com/DaniloVitoria/LibraryApi.git
+```
 
 7 Atualizar a branch principal
+```
 git checkout main
+```
+
+```
 git pull upstream main
+```
+
+```
 git checkout nome-da-sua-branch
+
+```
+
+```
 git merge main
+```
+
 
 8 Enviar a branch para o repositório forked
+
+```
 git push origin nome-da-sua-branch
+```
+
 
 ---
 
