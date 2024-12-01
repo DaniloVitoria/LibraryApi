@@ -1,6 +1,8 @@
 # LibraryApi
 
 
+
+## Descrição do projeto
 A LibraryApi é uma API para gerenciar uma biblioteca, permitindo:
 
 Realizar empréstimos de livros.
@@ -9,6 +11,7 @@ Gerar relatórios de livros mais emprestados.
 Listar usuários com empréstimos pendentes.
 Gerenciar usuários e livros da biblioteca.
 O projeto é estruturado em controladores (controllers) e modelos (models) que interagem com um banco de dados para armazenar e recuperar informações sobre empréstimos, usuários e livros.
+---
 
 
 
@@ -152,7 +155,23 @@ Definição de ferramentas, bibliotecas, framework e dispositivos para desenvolv
 Casos
 
 
+
+
+
+
 Estrutura de pasta
 
 ![estruturadepasta](https://github.com/user-attachments/assets/88efdd58-c546-4c5c-a200-c525fcaef980)
+
+
+
+
+## Autores
+| Nome                | Papel                     | GitHub                                      |
+|---------------------|---------------------------|---------------------------------------------|
+| **Pedro Guilherme**   | Documentador | [Pedro Guilherme](https://github.com/Pedriito12) |
+| **Rodrigo Amorim**|    Desenvolvedor | [Rodrigo Amorim ](https://github.com/AmorimRodrigoo)      |
+| **Bruno Severino**  | Desenvolvedor             | [Bruno Severino de Almeida Rocha](https://github.com/MysticXiz) |
+| **Danilo Ricardo** | Gerente de Configuração             | [Danilo Ricardo da Silva Tavares](https://github.com/DaniloVitoria) |
+| **Thiago Cavalcanti**     | Scrum Master             | [Thiago Cavalcanti](https://github.com/ThiagoCsilvaa) |
 
