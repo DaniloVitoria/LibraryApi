@@ -53,7 +53,8 @@ Fluxograma
 
 DIAGRAMA DO BANCO DE DADOS:
 
-![WhatsApp Image 2024-11-30 at 17 57 47](https://github.com/user-attachments/assets/7434b7ea-ce38-474d-ae4d-cd6ce2775307)
+![databasedocument](https://github.com/user-attachments/assets/534db501-ebeb-4ae8-98e1-651d8a42e032)
+
 
 
 ## Pré-requisitos
