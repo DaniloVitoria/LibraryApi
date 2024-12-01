@@ -169,9 +169,10 @@ Estrutura de pasta
 ## Autores
 | Nome                | Papel                     | GitHub                                      |
 |---------------------|---------------------------|---------------------------------------------|
+| **Thiago Cavalcanti**     | Scrum Master             | [Thiago Cavalcanti](https://github.com/ThiagoCsilvaa) |
+| **Danilo Ricardo** | Gerente de Configuração             | [Danilo Ricardo da Silva Tavares](https://github.com/DaniloVitoria) |
 | **Pedro Guilherme**   | Documentador | [Pedro Guilherme](https://github.com/Pedriito12) |
 | **Rodrigo Amorim**|    Desenvolvedor | [Rodrigo Amorim ](https://github.com/AmorimRodrigoo)      |
 | **Bruno Severino**  | Desenvolvedor             | [Bruno Severino de Almeida Rocha](https://github.com/MysticXiz) |
-| **Danilo Ricardo** | Gerente de Configuração             | [Danilo Ricardo da Silva Tavares](https://github.com/DaniloVitoria) |
-| **Thiago Cavalcanti**     | Scrum Master             | [Thiago Cavalcanti](https://github.com/ThiagoCsilvaa) |
+
 
