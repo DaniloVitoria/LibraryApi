@@ -139,12 +139,15 @@ atualizada com a branch principal (branch usada no repositório remoto main).
 3.6. Resolvendo Conflitos (se necessário)
 Se houver conflitos durante o merge, você precisará resolvê-los manualmente. Após
 resolver os conflitos, adicione os arquivos novamente e faça um commit.
+
 1 git add nome-do-arquivo-resolvido
+
 2 git commit -m "Resolvendo conflitos"
 
 
 3.7. Enviando Alterações para o Repositório Remoto
 Depois de fazer o commit, você pode enviar suas alterações para o repositório remoto.
+
 git push origin nome-da-sua-branch
 
 ---
