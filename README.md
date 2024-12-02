@@ -26,7 +26,8 @@ Mapa mental
 
 ## Fluxograma
 Fluxograma
-![Fluxograma](https://github.com/user-attachments/assets/4570d764-dd5d-40ee-87c4-e16e2a924a87)
+
+![modificarmodificado](https://github.com/user-attachments/assets/76213fed-b22a-4a6d-a9ee-e7a33e3f5bc3)
 
 
 ---
@@ -252,7 +253,7 @@ Casos
 Estrutura de pasta
 
 
-![estruturadepastas](https://github.com/user-attachments/assets/d67abcbd-0719-4bbe-a689-717416ccdc07)
+![estruturadepastasmelhorada2](https://github.com/user-attachments/assets/df848ef2-cbc9-47db-a06b-136e58aff791)
 
 
 
