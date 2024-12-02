@@ -248,7 +248,7 @@ Definição de ferramentas, bibliotecas, framework e dispositivos para desenvolv
 
 
 Estrutura de pasta
-
+---
 
 ![estruturadepastasmelhorada2](https://github.com/user-attachments/assets/df848ef2-cbc9-47db-a06b-136e58aff791)
 
