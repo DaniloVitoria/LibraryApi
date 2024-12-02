@@ -2,13 +2,7 @@
 
 ## Descrição do projeto
 A LibraryApi é uma API para gerenciar uma biblioteca, permitindo:
-
-Realizar empréstimos de livros.
-Registrar devoluções de livros.
-Gerar relatórios de livros mais emprestados.
-Listar usuários com empréstimos pendentes.
-Gerenciar usuários e livros da biblioteca.
-O projeto é estruturado em controladores (controllers) e modelos (models) que interagem com um banco de dados para armazenar e recuperar informações sobre empréstimos, usuários e livros.
+Registrar livros,fazer emprestimos de livros e sua devolução.
 
 ---
 
@@ -243,7 +237,7 @@ Definição de ferramentas, bibliotecas, framework e dispositivos para desenvolv
 
 
 
-Casos
+
 
 
 
