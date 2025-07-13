@@ -67,7 +67,7 @@ Tutorial do fluxo de trabalho para poder trabalhar com a API:
 ## Como ter o repositório na máquina
 
 Pré-requisitos:
-Ter o Node.js instalado na máquina.
+Ter o Node.js instalado na sua máquina.
 
 1 Para ter o reposiórito na sua máquina para fazer alterações no código:
 
